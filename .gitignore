@@ -10,7 +10,9 @@ amplify/backend/amplify-meta.json
 
 # testing
 /coverage
-/ui-automation/allure-results
+/ui-automation/cypress/example
+/ui-automation/cypress/videos
+/ui-automation/cypress/downloads
 
 # production
 /build
